@@ -12,3 +12,7 @@ Hibernate is free software that is distributed under the GNU Lesser General Publ
 Hibernate's primary feature is mapping from Java classes to database tables, and mapping from Java data types to SQL data types. Hibernate also provides data query and retrieval facilities. It generates SQL calls and relieves the developer from the manual handling and object conversion of the result set.
 
 https://github.com/jmoseman01/myVindexNew/blob/master/src/main/java/com/myvindex/myapp/service/TreeService.java
+
+service built to delete them
+want to dragndrop and delete and rename
+create, rename-not 2 different rename calls
